@@ -26,9 +26,6 @@ let numb9 = () => {
     }
 }
 
-let plusSymbol = ()=>{
-
-}
 
 let counter = [0]
 
